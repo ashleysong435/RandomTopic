@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ashleysong435/RandomTopic/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashleysong435/RandomTopic/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# RandomTopic
+### This is a random topic page!!
+## This could hopefully help you find a topic of your own!!!
+# Step 1:
+The first step is to calm down and take a deep breath. Then think about what you want to do for topics. For me, when I have to chose a certain topic, out of all the possibilities,  I would try to narrow it down to three or less. Pick your favorite topic out of the two or three and start writing! You could, for example, write about your favorite food, like sushi for example. Or a favorite book. 
+# Step 2:
+Gather your thoughts and try to organize them. That's what I like to do when choosing a topic. Maybe make a few notes on the way, or do some sort of research for an in-depth understanding of the topic.
+# Step 3:
+Just go for it and write it!!!
